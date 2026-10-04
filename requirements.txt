@@ -1,0 +1,7 @@
+transformers
+accelerate
+datasets
+opencv-python
+pillow
+numpy
+sentence-transformers

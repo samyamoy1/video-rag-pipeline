@@ -1,0 +1,1241 @@
+[
+    {
+        "video_id": "v1_0",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "A golden trophy is on the left side at the top of the frame. A blue bottle is on the right side at the bottom of the frame. A black object with yellow text is in the center-left area at the bottom of the frame.",
+        "text": "A golden trophy is on the left side at the top of the frame. A blue bottle is on the right side at the bottom of the frame. A black object with yellow text is in the center-left area at the bottom of the frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_1.jpg",
+        "time_sec": 0.25,
+        "caption": "A golden trophy is on the left side at the top of the frame. A blue bottle with a green label is on the right side at the bottom of the frame. A black object with a yellow arrow is in the center-left of the frame. A gray object is on the right side at the top of the frame.",
+        "text": "A golden trophy is on the left side at the top of the frame. A blue bottle with a green label is on the right side at the bottom of the frame. A black object with a yellow arrow is in the center-left of the frame. A gray object is on the right side at the top of the frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Trophy: Gold, top left\n- Bottle: Blue, bottom right\n- Chair leg: Black, bottom right",
+        "text": "Trophy: Gold, top left Bottle: Blue, bottom right Chair leg: Black, bottom right"
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_3.jpg",
+        "time_sec": 0.75,
+        "caption": "- **Golden trophy**: Top left, gold color.\n- **Black box**: Bottom center, black color.\n- **Blue bottle**: Right side, blue color.",
+        "text": "Golden trophy: Top left, gold color. Black box: Bottom center, black color. Blue bottle: Right side, blue color."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- **Golden trophy**: Top left, gold color.\n- **Blue bottle**: Bottom right, blue color.\n- **Black box**: Bottom left, black color.",
+        "text": "Golden trophy: Top left, gold color. Blue bottle: Bottom right, blue color. Black box: Bottom left, black color."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_5.jpg",
+        "time_sec": 1.25,
+        "caption": "- Left: Gold trophy on the left side.\n- Right: Blue bottle with a green cap on the right side.\n- Front: Black box with a yellow label in the center.\n- Top: Green pole on the right side.\n- Bottom: White floor covering the entire frame.",
+        "text": "Left: Gold trophy on the left side. Right: Blue bottle with a green cap on the right side. Front: Black box with a yellow label in the center. Top: Green pole on the right side. Bottom: White floor covering the entire frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- **Gold trophy** on the left side, top of the frame.\n- **Gray object** on the right side, top of the frame.\n- **Blue bottle** on the right side, bottom of the frame.\n- **Black object** on the left side, bottom of the frame.",
+        "text": "Gold trophy on the left side, top of the frame. Gray object on the right side, top of the frame. Blue bottle on the right side, bottom of the frame. Black object on the left side, bottom of the frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_7.jpg",
+        "time_sec": 1.75,
+        "caption": "A golden trophy is on the left side at the top of the frame. A black box with a yellow arrow is in the center-bottom area. A blue bottle is on the right side at the bottom. A gray pipe is on the right side at the top.",
+        "text": "A golden trophy is on the left side at the top of the frame. A black box with a yellow arrow is in the center-bottom area. A blue bottle is on the right side at the bottom. A gray pipe is on the right side at the top."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "A golden trophy is on the left side of the frame, slightly above the center. A blue bottle with a green cap is on the right side, near the bottom. A black object with a yellow arrow is at the bottom center of the frame. The background shows a light-colored floor with a dark object in the middle distance.",
+        "text": "A golden trophy is on the left side of the frame, slightly above the center. A blue bottle with a green cap is on the right side, near the bottom. A black object with a yellow arrow is at the bottom center of the frame. The background shows a light-colored floor with a dark object in the middle distance."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_9.jpg",
+        "time_sec": 2.25,
+        "caption": "- A golden trophy is on the left side, standing upright.\n- A blue bottle with a white cap is on the right side, lying on its side.\n- A black suitcase is in the foreground, slightly tilted to the left.",
+        "text": "A golden trophy is on the left side, standing upright. A blue bottle with a white cap is on the right side, lying on its side. A black suitcase is in the foreground, slightly tilted to the left."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- A black laptop is on the left side of the frame.\n- A golden trophy is on the left side, slightly above the laptop.\n- A blue bottle is on the right side, near the bottom of the frame.\n- A gray object resembling a shoe is on the right side, near the center of the frame.",
+        "text": "A black laptop is on the left side of the frame. A golden trophy is on the left side, slightly above the laptop. A blue bottle is on the right side, near the bottom of the frame. A gray object resembling a shoe is on the right side, near the center of the frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_11.jpg",
+        "time_sec": 2.75,
+        "caption": "A golden trophy is on the left side at the top of the frame. A black object with a gold handle is in the center-bottom area. A blue bottle is on the right side at the bottom of the frame. A gray object is on the left side at the bottom of the frame.",
+        "text": "A golden trophy is on the left side at the top of the frame. A black object with a gold handle is in the center-bottom area. A blue bottle is on the right side at the bottom of the frame. A gray object is on the left side at the bottom of the frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "A golden trophy is on the left side at the top of the frame. A blue object is on the right side at the bottom of the frame. A black object is in the center at the bottom of the frame. A yellow object is on the left side at the bottom of the frame. A gray object is on the right side at the top of the frame.",
+        "text": "A golden trophy is on the left side at the top of the frame. A blue object is on the right side at the bottom of the frame. A black object is in the center at the bottom of the frame. A yellow object is on the left side at the bottom of the frame. A gray object is on the right side at the top of the frame."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_13.jpg",
+        "time_sec": 3.25,
+        "caption": "A golden trophy is on the left side at the top of the frame. A blue spray bottle is on the right side at the bottom. A black object with yellow text is on the bottom left. A gray vacuum cleaner is on the right side at the top.",
+        "text": "A golden trophy is on the left side at the top of the frame. A blue spray bottle is on the right side at the bottom. A black object with yellow text is on the bottom left. A gray vacuum cleaner is on the right side at the top."
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Gold trophy: Top left\n- Black book: Bottom left\n- Blue object: Bottom right\n- Yellow object: Top center",
+        "text": "Gold trophy: Top left Black book: Bottom left Blue object: Bottom right Yellow object: Top center"
+    },
+    {
+        "video_id": "v1_0",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Golden trophy: Top left\n- Black book: Bottom left\n- Blue object: Bottom right\n- Gold object: Top center\n- Black object: Bottom center",
+        "text": "Golden trophy: Top left Black book: Bottom left Blue object: Bottom right Gold object: Top center Black object: Bottom center"
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Pink spray can on the left side, near the top.\n- Pink belt on the right side, near the top.\n- Black object with two small sticks on the left side, near the bottom.\n- Pink flower on the right side, near the bottom.",
+        "text": "Pink spray can on the left side, near the top. Pink belt on the right side, near the top. Black object with two small sticks on the left side, near the bottom. Pink flower on the right side, near the bottom."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Pink flower on the left side, bottom.\n- Pink flower on the right side, bottom.\n- Black object with red highlights on the left side, middle.\n- Orange belt on the right side, top.",
+        "text": "Pink flower on the left side, bottom. Pink flower on the right side, bottom. Black object with red highlights on the left side, middle. Orange belt on the right side, top."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Pink bottle on left side, top.\n- Orange belt on right side, top.\n- Black object with pink flower stem on right side, bottom.",
+        "text": "Pink bottle on left side, top. Orange belt on right side, top. Black object with pink flower stem on right side, bottom."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Pink object on left side, top.\n- Orange object on right side, top.\n- Black object on left side, bottom.\n- Pink flower on right side, bottom.",
+        "text": "Pink object on left side, top. Orange object on right side, top. Black object on left side, bottom. Pink flower on right side, bottom."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Pink shoe on the left side, near the top.\n- Pink belt on the right side, near the top.\n- Black object with antennas on the left side, near the bottom.\n- Small pink flower on the right side, near the bottom.",
+        "text": "Pink shoe on the left side, near the top. Pink belt on the right side, near the top. Black object with antennas on the left side, near the bottom. Small pink flower on the right side, near the bottom."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Pink high-heeled shoe on the left side, near the top.\n- Pink rose with green stem on the right side, near the bottom.\n- Pink belt on the right side, near the top.\n- Black object on the left side, near the bottom.",
+        "text": "Pink high-heeled shoe on the left side, near the top. Pink rose with green stem on the right side, near the bottom. Pink belt on the right side, near the top. Black object on the left side, near the bottom."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- Pink flower with green stem on the right side.\n- Pink object resembling a shoe on the left side.\n- Orange object resembling a belt on the right side.\n- Black object resembling a phone on the left side.",
+        "text": "Pink flower with green stem on the right side. Pink object resembling a shoe on the left side. Orange object resembling a belt on the right side. Black object resembling a phone on the left side."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Pink flower with green stem, center left.\n- Pink belt, center right.\n- Red object, upper left.\n- Black object, lower left.",
+        "text": "Pink flower with green stem, center left. Pink belt, center right. Red object, upper left. Black object, lower left."
+    },
+    {
+        "video_id": "v1_1",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Pink lipstick on the left side, top.\n- Pink rose on the right side, center.\n- Orange belt on the right side, top.\n- Black box on the left side, bottom.",
+        "text": "Pink lipstick on the left side, top. Pink rose on the right side, center. Orange belt on the right side, top. Black box on the left side, bottom."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Left: Yellow butterfly, top left.\n- Right: Pink character, bottom right.\n- Bottom left: Black device with yellow button, front left.\n- Top right: Wooden structure, top right.",
+        "text": "Left: Yellow butterfly, top left. Right: Pink character, bottom right. Bottom left: Black device with yellow button, front left. Top right: Wooden structure, top right."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Left: Yellow butterfly with black spots, top left.\n- Right: Pink character with red hair, top right.\n- Bottom left: Black device with antenna, front left.\n- Bottom right: Wooden structure, front right.",
+        "text": "Left: Yellow butterfly with black spots, top left. Right: Pink character with red hair, top right. Bottom left: Black device with antenna, front left. Bottom right: Wooden structure, front right."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Left: Yellow butterfly with black spots on a light brown surface.\n- Right: A red object resembling a piece of candy or a small toy on a darker brown surface.\n- Front: A black rectangular device with two antennas on a light brown surface.\n- Top: The background is a light brown surface.",
+        "text": "Left: Yellow butterfly with black spots on a light brown surface. Right: A red object resembling a piece of candy or a small toy on a darker brown surface. Front: A black rectangular device with two antennas on a light brown surface. Top: The background is a light brown surface."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Left: Black router with two antennas, front.\n- Right: Wooden wall with a small hole, top.\n- Top left: Yellow butterfly, left side.\n- Bottom right: Pink object on the ground, right side.",
+        "text": "Left: Black router with two antennas, front. Right: Wooden wall with a small hole, top. Top left: Yellow butterfly, left side. Bottom right: Pink object on the ground, right side."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Left: Black device with two antennas, positioned at the bottom left.\n- Right: Wooden structure with a small gap, positioned at the top right.\n- Top: Yellow butterfly on the left side of the wooden structure.\n- Bottom: Red object on the ground near the black device.",
+        "text": "Left: Black device with two antennas, positioned at the bottom left. Right: Wooden structure with a small gap, positioned at the top right. Top: Yellow butterfly on the left side of the wooden structure. Bottom: Red object on the ground near the black device."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Left: Black device with two antennas.\n- Right: Wooden fence with a red ribbon tied to it.\n- Top left: Yellow butterfly flying near the fence.\n- Bottom center: Wooden table surface.",
+        "text": "Left: Black device with two antennas. Right: Wooden fence with a red ribbon tied to it. Top left: Yellow butterfly flying near the fence. Bottom center: Wooden table surface."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- Left: Yellow butterfly, top left corner.\n- Right: Pink flower, bottom right corner.\n- Bottom: Black object with yellow dot, bottom left corner.",
+        "text": "Left: Yellow butterfly, top left corner. Right: Pink flower, bottom right corner. Bottom: Black object with yellow dot, bottom left corner."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Butterfly: Yellow with black spots, left side, top part.\n- Pink object: Rectangular, right side, middle part.\n- Wooden structure: Brown, right side, bottom part.\n- Black object: Rectangular, left side, bottom part.",
+        "text": "Butterfly: Yellow with black spots, left side, top part. Pink object: Rectangular, right side, middle part. Wooden structure: Brown, right side, bottom part. Black object: Rectangular, left side, bottom part."
+    },
+    {
+        "video_id": "v1_2",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Left: A black object with a yellow leaf on it.\n- Center-top: A pink object resembling a flower.\n- Right: A wooden structure with vertical slats.\n- Bottom-left: Another black object with a yellow leaf on it.",
+        "text": "Left: A black object with a yellow leaf on it. Center-top: A pink object resembling a flower. Right: A wooden structure with vertical slats. Bottom-left: Another black object with a yellow leaf on it."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Left: A butterfly with orange wings and a yellow body.\n- Right: A bone-like object with a light brown color.\n- Top: A small white truck with black wheels.\n- Bottom: A small white stick with a black tip.",
+        "text": "Left: A butterfly with orange wings and a yellow body. Right: A bone-like object with a light brown color. Top: A small white truck with black wheels. Bottom: A small white stick with a black tip."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Left: A red and yellow butterfly with a white outline.\n- Right: A white truck with black wheels.\n- Bottom: A bone-like object with a brown color.\n- Top: A small stick-like object.",
+        "text": "Left: A red and yellow butterfly with a white outline. Right: A white truck with black wheels. Bottom: A bone-like object with a brown color. Top: A small stick-like object."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Left: A butterfly with orange wings and a yellow body.\n- Right: A bone-like object with a light brown color.\n- Top: A small white truck with black wheels.\n- Bottom: A stick with a black tip.",
+        "text": "Left: A butterfly with orange wings and a yellow body. Right: A bone-like object with a light brown color. Top: A small white truck with black wheels. Bottom: A stick with a black tip."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Left: A knife with a black handle and blade.\n- Right: A small white truck with a red flag on top.\n- Front: A bone with a light brown color.\n- Bottom: A butterfly with orange wings and a yellow body.",
+        "text": "Left: A knife with a black handle and blade. Right: A small white truck with a red flag on top. Front: A bone with a light brown color. Bottom: A butterfly with orange wings and a yellow body."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Left: A red butterfly with yellow wings.\n- Right: A white truck with a flag on top.\n- Front: A bone-like object.\n- Top: A pen-like object.",
+        "text": "Left: A red butterfly with yellow wings. Right: A white truck with a flag on top. Front: A bone-like object. Top: A pen-like object."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Left: A butterfly with orange wings and a yellow body.\n- Right: A bone-like object with a light brown color.\n- Top: A small white truck with black wheels.\n- Bottom: The ground appears to be sandy.",
+        "text": "Left: A butterfly with orange wings and a yellow body. Right: A bone-like object with a light brown color. Top: A small white truck with black wheels. Bottom: The ground appears to be sandy."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- Left: A red and yellow butterfly with a white outline.\n- Right: A white truck with black wheels.\n- Front: A bone-like object with a brown color.\n- Top: A small object that appears to be a toothpick.",
+        "text": "Left: A red and yellow butterfly with a white outline. Right: A white truck with black wheels. Front: A bone-like object with a brown color. Top: A small object that appears to be a toothpick."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Left: A red and yellow butterfly with a white outline.\n- Right: A white truck with black wheels.\n- Front: A bone-like object with a brown color.\n- Top: A small stick-like object.",
+        "text": "Left: A red and yellow butterfly with a white outline. Right: A white truck with black wheels. Front: A bone-like object with a brown color. Top: A small stick-like object."
+    },
+    {
+        "video_id": "v1_3",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Left: A red and yellow butterfly with a white flower on its back.\n- Right: A white truck with black wheels.\n- Front: A bone-like object with a brown color.\n- Top: A small flag pole with a red flag.",
+        "text": "Left: A red and yellow butterfly with a white flower on its back. Right: A white truck with black wheels. Front: A bone-like object with a brown color. Top: A small flag pole with a red flag."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes a wooden surface with some items on it.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes a wooden surface with some items on it."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "A small green frog with a yellow shirt sits on the left side of the frame, facing right. A white bird with a black beak stands on the right side, facing left. The background shows a wooden surface with some items placed on it.",
+        "text": "A small green frog with a yellow shirt sits on the left side of the frame, facing right. A white bird with a black beak stands on the right side, facing left. The background shows a wooden surface with some items placed on it."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "A small green frog with a yellow shirt sits on the left side of the frame, facing right. A white bird with a black beak stands on the right side, facing left. The background includes wooden sticks and a piece of paper at the top of the frame.",
+        "text": "A small green frog with a yellow shirt sits on the left side of the frame, facing right. A white bird with a black beak stands on the right side, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes a wooden surface with some sticks and a piece of paper at the top edge.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes a wooden surface with some sticks and a piece of paper at the top edge."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+    },
+    {
+        "video_id": "v1_4",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame.",
+        "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Snowman: White, front center.\n- Suitcase: Brown, left side.\n- Boot: Green, top right.\n- Sign: Blue, top left.",
+        "text": "Snowman: White, front center. Suitcase: Brown, left side. Boot: Green, top right. Sign: Blue, top left."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Snowman: White, front center.\n- Suitcase: Brown, left side.\n- Boot: Green, top right.\n- Sign: Blue, top left.",
+        "text": "Snowman: White, front center. Suitcase: Brown, left side. Boot: Green, top right. Sign: Blue, top left."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- A suitcase with a pink apple on it is to the left.\n- A white snowman with a red nose is to the right.\n- A green boot is at the top right corner.\n- A blue sign is at the top left corner.",
+        "text": "A suitcase with a pink apple on it is to the left. A white snowman with a red nose is to the right. A green boot is at the top right corner. A blue sign is at the top left corner."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Left: Brown suitcase with a pink apple on top.\n- Right: White helmet with a red mouth.\n- Top: Green rubber boot.\n- Bottom: Grass-like texture.",
+        "text": "Left: Brown suitcase with a pink apple on top. Right: White helmet with a red mouth. Top: Green rubber boot. Bottom: Grass-like texture."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Left: Suitcase with pink apple on top.\n- Right: White hat with red bow.\n- Top: Green boot.\n- Bottom: Ground surface.",
+        "text": "Left: Suitcase with pink apple on top. Right: White hat with red bow. Top: Green boot. Bottom: Ground surface."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Left: Suitcase with pink sticker, light brown.\n- Right: White helmet with red markings, positioned slightly behind the suitcase.\n- Top: Green boot, standing upright on the ground.\n- Bottom: Ground surface appears to be a textured, light gray material.",
+        "text": "Left: Suitcase with pink sticker, light brown. Right: White helmet with red markings, positioned slightly behind the suitcase. Top: Green boot, standing upright on the ground. Bottom: Ground surface appears to be a textured, light gray material."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- A brown suitcase with a pink apple on it is on the left side of the frame.\n- A white robot with red eyes is on the right side of the frame.\n- The background shows a grassy area with a blue sign on the left and a gray pole on the right.",
+        "text": "A brown suitcase with a pink apple on it is on the left side of the frame. A white robot with red eyes is on the right side of the frame. The background shows a grassy area with a blue sign on the left and a gray pole on the right."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Left: Brown suitcase with pink apple on top.\n- Right: White robot with red eyes and mouth.\n- Top: Blue flag.\n- Bottom: Green pole.",
+        "text": "Left: Brown suitcase with pink apple on top. Right: White robot with red eyes and mouth. Top: Blue flag. Bottom: Green pole."
+    },
+    {
+        "video_id": "v2_0",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Brown suitcase on the left side, front.\n- White robot on the right side, front.\n- Blue flag on the left side, top.\n- Green pole on the right side, top.",
+        "text": "Brown suitcase on the left side, front. White robot on the right side, front. Blue flag on the left side, top. Green pole on the right side, top."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Two people wearing sweaters: one red on the left, one gray on the right.\n- A wooden table on the left side.\n- A red object resembling a stapler on the right side.",
+        "text": "Two people wearing sweaters: one red on the left, one gray on the right. A wooden table on the left side. A red object resembling a stapler on the right side."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Two people wearing sweaters: one red on the left, one gray on the right.\n- A wooden table in the foreground on the left side.\n- A red object on the ground to the right of the table.",
+        "text": "Two people wearing sweaters: one red on the left, one gray on the right. A wooden table in the foreground on the left side. A red object on the ground to the right of the table."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Two people standing on a tiled floor.\n- Person on the left wearing a red shirt.\n- Person on the right wearing a gray shirt.\n- A wooden table in the foreground to the left.\n- A red object with a handle lying on the ground to the right.",
+        "text": "Two people standing on a tiled floor. Person on the left wearing a red shirt. Person on the right wearing a gray shirt. A wooden table in the foreground to the left. A red object with a handle lying on the ground to the right."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Two people: one wearing a red sweater on the left, another wearing a gray sweater on the right.\n- A small wooden table in front of the person in the red sweater.\n- A red cone-shaped object on the right side of the frame.",
+        "text": "Two people: one wearing a red sweater on the left, another wearing a gray sweater on the right. A small wooden table in front of the person in the red sweater. A red cone-shaped object on the right side of the frame."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Two people standing on tiled floor.\n- Person on left wearing red shirt, facing right.\n- Person on right wearing gray shirt, facing left.\n- Wooden bench on left side of frame.\n- Red object with fish design on right side of frame.",
+        "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden bench on left side of frame. Red object with fish design on right side of frame."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Two people standing on tiled floor.\n- Person on left wearing red shirt, facing right.\n- Person on right wearing gray shirt, facing left.\n- Small wooden table in front of person on left.\n- Red object on ground near person on right.\n- Floor tiles are light brown with darker grout lines.",
+        "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Small wooden table in front of person on left. Red object on ground near person on right. Floor tiles are light brown with darker grout lines."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- Two people standing on tiled floor.\n- Person on left wearing red shirt, facing right.\n- Person on right wearing gray shirt, facing left.\n- Wooden table in front of person on left.\n- Red object on ground near person on right.",
+        "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden table in front of person on left. Red object on ground near person on right."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Two people standing on tiled floor.\n- Person on left wearing red shirt, facing right.\n- Person on right wearing gray shirt, facing left.\n- Wooden bench on left side of frame.\n- Red object on ground near right person.\n- Gray object on ground near right person.",
+        "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden bench on left side of frame. Red object on ground near right person. Gray object on ground near right person."
+    },
+    {
+        "video_id": "v2_1",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Two people standing on tiled floor.\n- Person on left wearing red shirt, facing right.\n- Person on right wearing gray shirt, facing left.\n- Wooden bench on left side of frame.\n- Red object on ground near right person's feet.",
+        "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden bench on left side of frame. Red object on ground near right person's feet."
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Left: Woven basket, dark brown.\n- Right: White box with a handle, top.\n- Front: Bread slice, light brown.\n- Bottom: Red box with a lid, open.",
+        "text": "Left: Woven basket, dark brown. Right: White box with a handle, top. Front: Bread slice, light brown. Bottom: Red box with a lid, open."
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Left: Basket, dark brown, top left.\n- Right: Box, white, top right.\n- Front: Bread, light brown, bottom left.\n- Bottom right: Pink box with a lid, open.",
+        "text": "Left: Basket, dark brown, top left. Right: Box, white, top right. Front: Bread, light brown, bottom left. Bottom right: Pink box with a lid, open."
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Left: A brown woven basket with a white cloth inside.\n- Right: A red plastic container with a lid.\n- Front: A piece of bread on the left side.\n- Top: Green grass.",
+        "text": "Left: A brown woven basket with a white cloth inside. Right: A red plastic container with a lid. Front: A piece of bread on the left side. Top: Green grass."
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Bread: White, bottom left\n- Basket: Black, top left\n- Box: White, top center\n- Container: Red, bottom right",
+        "text": "Bread: White, bottom left Basket: Black, top left Box: White, top center Container: Red, bottom right"
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Left: Black basket with clothespins on top.\n- Right: Red box with a lid open.\n- Front: Bread on the left side.\n- Top: Green grassy area.\n- Bottom: Sand-like surface.",
+        "text": "Left: Black basket with clothespins on top. Right: Red box with a lid open. Front: Bread on the left side. Top: Green grassy area. Bottom: Sand-like surface."
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Bread: White, bottom left\n- Basket: Black, top left\n- Box: Red, right side\n- Paper: White, top right",
+        "text": "Bread: White, bottom left Basket: Black, top left Box: Red, right side Paper: White, top right"
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- Left: Wicker basket, dark brown\n- Right: Red tin with a white lid, front\n- Bottom left: Bread, light brown\n- Top center: White box, top\n- Background: Green grass, top",
+        "text": "Left: Wicker basket, dark brown Right: Red tin with a white lid, front Bottom left: Bread, light brown Top center: White box, top Background: Green grass, top"
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Bread: White, bottom left\n- Basket: Black, top left\n- Box: White, top center\n- Container: Red, bottom right",
+        "text": "Bread: White, bottom left Basket: Black, top left Box: White, top center Container: Red, bottom right"
+    },
+    {
+        "video_id": "v2_2",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Left: Black bag with clothespins on top.\n- Right: Red box with a white object inside.\n- Front: Bread on the left side.\n- Top: Green grassy area.",
+        "text": "Left: Black bag with clothespins on top. Right: Red box with a white object inside. Front: Bread on the left side. Top: Green grassy area."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "- Yellow object on left side, front.\n- Pink object on right side, front.\n- Person in light blue jacket on right side, back.\n- Green object on left side, back.",
+        "text": "Yellow object on left side, front. Pink object on right side, front. Person in light blue jacket on right side, back. Green object on left side, back."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "- Yellow kite with pink stripe on the left side of the frame.\n- Person wearing light blue jacket and white pants on the right side of the frame.\n- Pink object resembling a bird on the right side of the frame.\n- Green hill in the background behind the person.",
+        "text": "Yellow kite with pink stripe on the left side of the frame. Person wearing light blue jacket and white pants on the right side of the frame. Pink object resembling a bird on the right side of the frame. Green hill in the background behind the person."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Yellow object on left side, front.\n- Pink object on right side, front.\n- Person wearing light blue jacket, right side, back.\n- Yellow object on left side, back.\n- Person wearing white jacket, right side, back.",
+        "text": "Yellow object on left side, front. Pink object on right side, front. Person wearing light blue jacket, right side, back. Yellow object on left side, back. Person wearing white jacket, right side, back."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "- Yellow kite on left side, slightly above ground.\n- Pink object on right side, near ground.\n- Person in light blue jacket standing behind yellow kite.",
+        "text": "Yellow kite on left side, slightly above ground. Pink object on right side, near ground. Person in light blue jacket standing behind yellow kite."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "- Yellow object on left side, front.\n- Pink object on right side, front.\n- Person wearing light blue jacket, top right.\n- Person wearing white jacket, top center.\n- Yellow object on left side, back.\n- Pink object on right side, back.",
+        "text": "Yellow object on left side, front. Pink object on right side, front. Person wearing light blue jacket, top right. Person wearing white jacket, top center. Yellow object on left side, back. Pink object on right side, back."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "- Yellow object on left side, slightly above ground.\n- Pink object on right side, near ground.\n- Person in light blue jacket at top right corner.\n- Background shows greenery and sky.",
+        "text": "Yellow object on left side, slightly above ground. Pink object on right side, near ground. Person in light blue jacket at top right corner. Background shows greenery and sky."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "- Tennis ball: Yellow with pink strings, top left.\n- Person: Wearing light blue jacket, standing on right side, upper body visible.\n- Pink object: Appears to be a toy or prop, located at the bottom right.",
+        "text": "Tennis ball: Yellow with pink strings, top left. Person: Wearing light blue jacket, standing on right side, upper body visible. Pink object: Appears to be a toy or prop, located at the bottom right."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "- Yellow ball with pink stripe on the left side.\n- Person wearing light blue jacket on the right side.\n- Pink object resembling a bird on the right side.\n- Background shows greenery at the top of the frame.",
+        "text": "Yellow ball with pink stripe on the left side. Person wearing light blue jacket on the right side. Pink object resembling a bird on the right side. Background shows greenery at the top of the frame."
+    },
+    {
+        "video_id": "v2_3",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "- Yellow object with pink lines on the left side of the frame.\n- Pink object on the right side of the frame.\n- Person wearing light blue jacket in the background, right side of the frame.",
+        "text": "Yellow object with pink lines on the left side of the frame. Pink object on the right side of the frame. Person wearing light blue jacket in the background, right side of the frame."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "A yellow hard hat is on the left side at the top of the frame. A red book is on the left side at the bottom. A knife is on the right side at the bottom.",
+        "text": "A yellow hard hat is on the left side at the top of the frame. A red book is on the left side at the bottom. A knife is on the right side at the bottom."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_2.jpg",
+        "time_sec": 0.5,
+        "caption": "A yellow hard hat is on the left side at the top of the frame. A red book is on the left side at the bottom. A knife is on the right side at the bottom.",
+        "text": "A yellow hard hat is on the left side at the top of the frame. A red book is on the left side at the bottom. A knife is on the right side at the bottom."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_4.jpg",
+        "time_sec": 1.0,
+        "caption": "- Yellow hard hat with red sticker on left side.\n- Wooden table with checkered pattern.\n- Red book with purple cover on left side.\n- Knife with black handle and blade on right side.\n- Small yellow object resembling a pencil on right side.",
+        "text": "Yellow hard hat with red sticker on left side. Wooden table with checkered pattern. Red book with purple cover on left side. Knife with black handle and blade on right side. Small yellow object resembling a pencil on right side."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_6.jpg",
+        "time_sec": 1.5,
+        "caption": "A yellow hard hat with a pink sticker is on the left side of the frame, slightly above the center. A red book is on the left side, partially open, with its cover facing up. A knife with a black handle and blade is on the right side, lying flat on the surface. The background shows a blurred outdoor scene with greenery",
+        "text": "A yellow hard hat with a pink sticker is on the left side of the frame, slightly above the center. A red book is on the left side, partially open, with its cover facing up. A knife with a black handle and blade is on the right side, lying flat on the surface. The background shows a blurred outdoor scene with greenery"
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_8.jpg",
+        "time_sec": 2.0,
+        "caption": "A yellow hard hat with a red ribbon is on the left side of the frame, near the top. A knife with a black handle lies on the right side, closer to the bottom. There is a wooden plank with a red object on it, positioned at the bottom center of the frame.",
+        "text": "A yellow hard hat with a red ribbon is on the left side of the frame, near the top. A knife with a black handle lies on the right side, closer to the bottom. There is a wooden plank with a red object on it, positioned at the bottom center of the frame."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_10.jpg",
+        "time_sec": 2.5,
+        "caption": "A yellow hard hat with a pink straw is on the left side of the frame, near the top. A knife is on the right side, near the bottom. The background shows a wooden surface with a textured pattern.",
+        "text": "A yellow hard hat with a pink straw is on the left side of the frame, near the top. A knife is on the right side, near the bottom. The background shows a wooden surface with a textured pattern."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_12.jpg",
+        "time_sec": 3.0,
+        "caption": "A yellow hard hat is on the left side, slightly above the center. A knife is on the right side, near the bottom. There is a wooden plank with a red mark on the left side, slightly above the center. The background shows a textured surface with some greenery at the top right corner.",
+        "text": "A yellow hard hat is on the left side, slightly above the center. A knife is on the right side, near the bottom. There is a wooden plank with a red mark on the left side, slightly above the center. The background shows a textured surface with some greenery at the top right corner."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_14.jpg",
+        "time_sec": 3.5,
+        "caption": "A yellow hard hat is on the left side, near the top edge. A knife with a black handle is on the right side, near the bottom edge. There is a red object on the left side, near the center. The background shows a wooden surface with a pattern.",
+        "text": "A yellow hard hat is on the left side, near the top edge. A knife with a black handle is on the right side, near the bottom edge. There is a red object on the left side, near the center. The background shows a wooden surface with a pattern."
+    },
+    {
+        "video_id": "v2_4",
+        "frame": "frame_15.jpg",
+        "time_sec": 3.75,
+        "caption": "A yellow hard hat is on the left side of the frame, near the top. A knife is on the right side, near the bottom. The background shows a wooden surface with a patterned texture.",
+        "text": "A yellow hard hat is on the left side of the frame, near the top. A knife is on the right side, near the bottom. The background shows a wooden surface with a patterned texture."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "Two men sit on a wooden bench, one wearing a maroon shirt and beige pants, the other in a white shirt and dark pants. The man in the maroon shirt holds a piece of paper. They appear to be engaged in conversation.",
+        "text": "Two men sit on a wooden bench, one wearing a maroon shirt and beige pants, the other in a white shirt and dark pants. The man in the maroon shirt holds a piece of paper. They appear to be engaged in conversation."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_2.jpg",
+        "time_sec": 2.0,
+        "caption": "A man sits on a wooden bench with a red blanket draped over his shoulders. He wears a purple shirt and gray pants. Another person sits behind him, partially obscured by the blanket. The background features a white wall with a decorative stone pattern at the top.",
+        "text": "A man sits on a wooden bench with a red blanket draped over his shoulders. He wears a purple shirt and gray pants. Another person sits behind him, partially obscured by the blanket. The background features a white wall with a decorative stone pattern at the top."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_4.jpg",
+        "time_sec": 4.0,
+        "caption": "Two people sitting on a bench. The person on the left wears a red hoodie and gray pants, while the person on the right wears a maroon hoodie and yellow pants. There is a piece of paper on the bench between them.",
+        "text": "Two people sitting on a bench. The person on the left wears a red hoodie and gray pants, while the person on the right wears a maroon hoodie and yellow pants. There is a piece of paper on the bench between them."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_6.jpg",
+        "time_sec": 6.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair.",
+        "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_8.jpg",
+        "time_sec": 8.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a phone in his hands. Another man sits behind him, wearing a purple shirt and black pants. The background features a wall with a patterned design.",
+        "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a phone in his hands. Another man sits behind him, wearing a purple shirt and black pants. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_10.jpg",
+        "time_sec": 10.0,
+        "caption": "A man sits on a wooden bench with his legs crossed, wearing a red shirt and yellow pants. He has a piece of paper in his lap. Another man, wearing a maroon shirt, sits behind him, resting his head on the first man's shoulder. The background features a wall with a decorative pattern.",
+        "text": "A man sits on a wooden bench with his legs crossed, wearing a red shirt and yellow pants. He has a piece of paper in his lap. Another man, wearing a maroon shirt, sits behind him, resting his head on the first man's shoulder. The background features a wall with a decorative pattern."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_12.jpg",
+        "time_sec": 12.0,
+        "caption": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window",
+        "text": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window"
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_14.jpg",
+        "time_sec": 14.0,
+        "caption": "A man sits on a wooden bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a piece of paper in his left hand. Another person, partially covered by a red blanket, sits behind him, leaning against the wall. The background features a white wall with a decorative pattern at the top.",
+        "text": "A man sits on a wooden bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a piece of paper in his left hand. Another person, partially covered by a red blanket, sits behind him, leaning against the wall. The background features a white wall with a decorative pattern at the top."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_16.jpg",
+        "time_sec": 16.0,
+        "caption": "A man and woman sit on a bench, both wearing red garments. The man wears a purple shirt and gray pants, while the woman wears a maroon dress. They are focused on a piece of paper in front of them. The background features a patterned wall with a dark blue section.",
+        "text": "A man and woman sit on a bench, both wearing red garments. The man wears a purple shirt and gray pants, while the woman wears a maroon dress. They are focused on a piece of paper in front of them. The background features a patterned wall with a dark blue section."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_18.jpg",
+        "time_sec": 18.0,
+        "caption": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background.",
+        "text": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_20.jpg",
+        "time_sec": 20.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a purple shirt and gray pants. He holds a piece of paper. A woman sits next to him, wearing a red shawl and yellow pants. She is barefoot. The bench has a wooden seat and a stone-patterned backrest. The floor is tiled with white tiles and black",
+        "text": "A man sits on a bench with his legs crossed, wearing a purple shirt and gray pants. He holds a piece of paper. A woman sits next to him, wearing a red shawl and yellow pants. She is barefoot. The bench has a wooden seat and a stone-patterned backrest. The floor is tiled with white tiles and black"
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_22.jpg",
+        "time_sec": 22.0,
+        "caption": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench.",
+        "text": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_24.jpg",
+        "time_sec": 24.0,
+        "caption": "A man in a purple shirt sits on a wooden bench with his legs crossed, holding a piece of paper. Another person in a red shirt sits next to him, leaning slightly forward. They both appear to be engaged in conversation. The background features a white wall with a patterned design.",
+        "text": "A man in a purple shirt sits on a wooden bench with his legs crossed, holding a piece of paper. Another person in a red shirt sits next to him, leaning slightly forward. They both appear to be engaged in conversation. The background features a white wall with a patterned design."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_26.jpg",
+        "time_sec": 26.0,
+        "caption": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design.",
+        "text": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_28.jpg",
+        "time_sec": 28.0,
+        "caption": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design.",
+        "text": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_0",
+        "frame": "frame_30.jpg",
+        "time_sec": 30.0,
+        "caption": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap.",
+        "text": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "Two men sit on a wooden bench, one wearing a maroon shirt and beige pants, the other in a white shirt and dark pants. The man in the maroon shirt holds a piece of paper. They appear to be engaged in conversation.",
+        "text": "Two men sit on a wooden bench, one wearing a maroon shirt and beige pants, the other in a white shirt and dark pants. The man in the maroon shirt holds a piece of paper. They appear to be engaged in conversation."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_2.jpg",
+        "time_sec": 2.0,
+        "caption": "A man sits on a wooden bench with a red blanket draped over his shoulders. He wears a purple shirt and gray pants. Another person sits behind him, partially obscured by the blanket. The background features a white wall with a decorative stone pattern at the top.",
+        "text": "A man sits on a wooden bench with a red blanket draped over his shoulders. He wears a purple shirt and gray pants. Another person sits behind him, partially obscured by the blanket. The background features a white wall with a decorative stone pattern at the top."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_4.jpg",
+        "time_sec": 4.0,
+        "caption": "Two people sitting on a bench. The person on the left wears a red hoodie and gray pants, while the person on the right wears a maroon hoodie and yellow pants. There is a piece of paper on the bench between them.",
+        "text": "Two people sitting on a bench. The person on the left wears a red hoodie and gray pants, while the person on the right wears a maroon hoodie and yellow pants. There is a piece of paper on the bench between them."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_6.jpg",
+        "time_sec": 6.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair.",
+        "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_8.jpg",
+        "time_sec": 8.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a phone in his hands. Another man sits behind him, wearing a purple shirt and black pants. The background features a wall with a patterned design.",
+        "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a phone in his hands. Another man sits behind him, wearing a purple shirt and black pants. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_10.jpg",
+        "time_sec": 10.0,
+        "caption": "A man sits on a wooden bench with his legs crossed, wearing a red shirt and yellow pants. He has a piece of paper in his lap. Another man, wearing a maroon shirt, sits behind him, resting his head on the first man's shoulder. The background features a wall with a decorative pattern.",
+        "text": "A man sits on a wooden bench with his legs crossed, wearing a red shirt and yellow pants. He has a piece of paper in his lap. Another man, wearing a maroon shirt, sits behind him, resting his head on the first man's shoulder. The background features a wall with a decorative pattern."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_12.jpg",
+        "time_sec": 12.0,
+        "caption": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window",
+        "text": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window"
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_14.jpg",
+        "time_sec": 14.0,
+        "caption": "A man sits on a wooden bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a piece of paper in his left hand. Another person, partially covered by a red blanket, sits behind him, leaning against the wall. The background features a white wall with a decorative pattern at the top.",
+        "text": "A man sits on a wooden bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a piece of paper in his left hand. Another person, partially covered by a red blanket, sits behind him, leaning against the wall. The background features a white wall with a decorative pattern at the top."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_16.jpg",
+        "time_sec": 16.0,
+        "caption": "A man and woman sit on a bench, both wearing red garments. The man wears a purple shirt and gray pants, while the woman wears a maroon dress. They are focused on a piece of paper in front of them. The background features a patterned wall with a dark blue section.",
+        "text": "A man and woman sit on a bench, both wearing red garments. The man wears a purple shirt and gray pants, while the woman wears a maroon dress. They are focused on a piece of paper in front of them. The background features a patterned wall with a dark blue section."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_18.jpg",
+        "time_sec": 18.0,
+        "caption": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background.",
+        "text": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_20.jpg",
+        "time_sec": 20.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a purple shirt and gray pants. He holds a piece of paper. A woman sits next to him, wearing a red shawl and yellow pants. She is barefoot. The bench has a wooden seat and a stone-patterned backrest. The floor is tiled with white tiles and black",
+        "text": "A man sits on a bench with his legs crossed, wearing a purple shirt and gray pants. He holds a piece of paper. A woman sits next to him, wearing a red shawl and yellow pants. She is barefoot. The bench has a wooden seat and a stone-patterned backrest. The floor is tiled with white tiles and black"
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_22.jpg",
+        "time_sec": 22.0,
+        "caption": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench.",
+        "text": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_24.jpg",
+        "time_sec": 24.0,
+        "caption": "A man in a purple shirt sits on a wooden bench with his legs crossed, holding a piece of paper. Another person in a red shirt sits next to him, leaning slightly forward. They both appear to be engaged in conversation. The background features a white wall with a patterned design.",
+        "text": "A man in a purple shirt sits on a wooden bench with his legs crossed, holding a piece of paper. Another person in a red shirt sits next to him, leaning slightly forward. They both appear to be engaged in conversation. The background features a white wall with a patterned design."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_26.jpg",
+        "time_sec": 26.0,
+        "caption": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design.",
+        "text": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_28.jpg",
+        "time_sec": 28.0,
+        "caption": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design.",
+        "text": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_1",
+        "frame": "frame_30.jpg",
+        "time_sec": 30.0,
+        "caption": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap.",
+        "text": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "Two men sit on a wooden bench, one wearing a maroon shirt and beige pants, the other in a white shirt and dark pants. The man in the maroon shirt holds a piece of paper. They appear to be engaged in conversation.",
+        "text": "Two men sit on a wooden bench, one wearing a maroon shirt and beige pants, the other in a white shirt and dark pants. The man in the maroon shirt holds a piece of paper. They appear to be engaged in conversation."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_2.jpg",
+        "time_sec": 2.0,
+        "caption": "A man sits on a wooden bench with a red blanket draped over his shoulders. He wears a purple shirt and gray pants. Another person sits behind him, partially obscured by the blanket. The background features a white wall with a decorative stone pattern at the top.",
+        "text": "A man sits on a wooden bench with a red blanket draped over his shoulders. He wears a purple shirt and gray pants. Another person sits behind him, partially obscured by the blanket. The background features a white wall with a decorative stone pattern at the top."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_4.jpg",
+        "time_sec": 4.0,
+        "caption": "Two people sitting on a bench. The person on the left wears a red hoodie and gray pants, while the person on the right wears a maroon hoodie and yellow pants. There is a piece of paper on the bench between them.",
+        "text": "Two people sitting on a bench. The person on the left wears a red hoodie and gray pants, while the person on the right wears a maroon hoodie and yellow pants. There is a piece of paper on the bench between them."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_6.jpg",
+        "time_sec": 6.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair.",
+        "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_8.jpg",
+        "time_sec": 8.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a phone in his hands. Another man sits behind him, wearing a purple shirt and black pants. The background features a wall with a patterned design.",
+        "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a phone in his hands. Another man sits behind him, wearing a purple shirt and black pants. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_10.jpg",
+        "time_sec": 10.0,
+        "caption": "A man sits on a wooden bench with his legs crossed, wearing a red shirt and yellow pants. He has a piece of paper in his lap. Another man, wearing a maroon shirt, sits behind him, resting his head on the first man's shoulder. The background features a wall with a decorative pattern.",
+        "text": "A man sits on a wooden bench with his legs crossed, wearing a red shirt and yellow pants. He has a piece of paper in his lap. Another man, wearing a maroon shirt, sits behind him, resting his head on the first man's shoulder. The background features a wall with a decorative pattern."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_12.jpg",
+        "time_sec": 12.0,
+        "caption": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window",
+        "text": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window"
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_14.jpg",
+        "time_sec": 14.0,
+        "caption": "A man sits on a wooden bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a piece of paper in his left hand. Another person, partially covered by a red blanket, sits behind him, leaning against the wall. The background features a white wall with a decorative pattern at the top.",
+        "text": "A man sits on a wooden bench with his legs crossed, wearing a maroon shirt and beige pants. He holds a piece of paper in his left hand. Another person, partially covered by a red blanket, sits behind him, leaning against the wall. The background features a white wall with a decorative pattern at the top."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_16.jpg",
+        "time_sec": 16.0,
+        "caption": "A man and woman sit on a bench, both wearing red garments. The man wears a purple shirt and gray pants, while the woman wears a maroon dress. They are focused on a piece of paper in front of them. The background features a patterned wall with a dark blue section.",
+        "text": "A man and woman sit on a bench, both wearing red garments. The man wears a purple shirt and gray pants, while the woman wears a maroon dress. They are focused on a piece of paper in front of them. The background features a patterned wall with a dark blue section."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_18.jpg",
+        "time_sec": 18.0,
+        "caption": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background.",
+        "text": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_20.jpg",
+        "time_sec": 20.0,
+        "caption": "A man sits on a bench with his legs crossed, wearing a purple shirt and gray pants. He holds a piece of paper. A woman sits next to him, wearing a red shawl and yellow pants. She is barefoot. The bench has a wooden seat and a stone-patterned backrest. The floor is tiled with white tiles and black",
+        "text": "A man sits on a bench with his legs crossed, wearing a purple shirt and gray pants. He holds a piece of paper. A woman sits next to him, wearing a red shawl and yellow pants. She is barefoot. The bench has a wooden seat and a stone-patterned backrest. The floor is tiled with white tiles and black"
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_22.jpg",
+        "time_sec": 22.0,
+        "caption": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench.",
+        "text": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_24.jpg",
+        "time_sec": 24.0,
+        "caption": "A man in a purple shirt sits on a wooden bench with his legs crossed, holding a piece of paper. Another person in a red shirt sits next to him, leaning slightly forward. They both appear to be engaged in conversation. The background features a white wall with a patterned design.",
+        "text": "A man in a purple shirt sits on a wooden bench with his legs crossed, holding a piece of paper. Another person in a red shirt sits next to him, leaning slightly forward. They both appear to be engaged in conversation. The background features a white wall with a patterned design."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_26.jpg",
+        "time_sec": 26.0,
+        "caption": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design.",
+        "text": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_28.jpg",
+        "time_sec": 28.0,
+        "caption": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design.",
+        "text": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design."
+    },
+    {
+        "video_id": "v3_2",
+        "frame": "frame_30.jpg",
+        "time_sec": 30.0,
+        "caption": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap.",
+        "text": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "A living room with beige walls, a white armchair, a small table, a clock on the wall, a window with light-colored curtains, and a staircase on the left side.",
+        "text": "A living room with beige walls, a white armchair, a small table, a clock on the wall, a window with light-colored curtains, and a staircase on the left side."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_2.jpg",
+        "time_sec": 2.0,
+        "caption": "A living room with beige walls, a white armchair, a clock on the wall, a window with light-colored curtains, a fireplace on the left, and a staircase leading to an upper level.",
+        "text": "A living room with beige walls, a white armchair, a clock on the wall, a window with light-colored curtains, a fireplace on the left, and a staircase leading to an upper level."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_4.jpg",
+        "time_sec": 4.0,
+        "caption": "A man in a green hoodie stands in a living room with a white armchair to his left, a clock on the wall behind him, and a window with curtains to his right. A dog sits on the floor near the armchair.",
+        "text": "A man in a green hoodie stands in a living room with a white armchair to his left, a clock on the wall behind him, and a window with curtains to his right. A dog sits on the floor near the armchair."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_6.jpg",
+        "time_sec": 6.0,
+        "caption": "A young person stands in a room, wearing a green hoodie and black pants. They hold a blue object in their right hand. The room has beige walls, a window with curtains on the right side, and a staircase on the left. There's a couch and a small table near the window.",
+        "text": "A young person stands in a room, wearing a green hoodie and black pants. They hold a blue object in their right hand. The room has beige walls, a window with curtains on the right side, and a staircase on the left. There's a couch and a small table near the window."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_8.jpg",
+        "time_sec": 8.0,
+        "caption": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen. The floor appears",
+        "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen. The floor appears"
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_10.jpg",
+        "time_sec": 10.0,
+        "caption": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen.",
+        "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_12.jpg",
+        "time_sec": 12.0,
+        "caption": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, a clock on the wall, and a window with light-colored curtains on the right.",
+        "text": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, a clock on the wall, and a window with light-colored curtains on the right."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_14.jpg",
+        "time_sec": 14.0,
+        "caption": "A living room with a beige armchair, a small table, a clock on the wall, and a window with light-colored curtains. The door is closed, and there's a staircase on the left side.",
+        "text": "A living room with a beige armchair, a small table, a clock on the wall, and a window with light-colored curtains. The door is closed, and there's a staircase on the left side."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_16.jpg",
+        "time_sec": 16.0,
+        "caption": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, and a window with light-colored curtains on the right. A clock hangs on the wall above the armchair.",
+        "text": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, and a window with light-colored curtains on the right. A clock hangs on the wall above the armchair."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_18.jpg",
+        "time_sec": 18.0,
+        "caption": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to an upper level.",
+        "text": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to an upper level."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_20.jpg",
+        "time_sec": 20.0,
+        "caption": "A room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to another room. The armchair is positioned in the center, the clock is near the ceiling, the window has light-colored curtains, the table is to the right of the armchair, and the staircase is on the",
+        "text": "A room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to another room. The armchair is positioned in the center, the clock is near the ceiling, the window has light-colored curtains, the table is to the right of the armchair, and the staircase is on the"
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_22.jpg",
+        "time_sec": 22.0,
+        "caption": "A room with a white wall clock hanging on the wall, a beige armchair in the center, a small table to the right of the armchair, a window with light-colored curtains on the right side, and a fireplace on the left side.",
+        "text": "A room with a white wall clock hanging on the wall, a beige armchair in the center, a small table to the right of the armchair, a window with light-colored curtains on the right side, and a fireplace on the left side."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_24.jpg",
+        "time_sec": 24.0,
+        "caption": "A living room with beige walls, a white door on the left, a clock on the wall, a beige armchair in the center, a small table in front of the chair, and a window with light-colored curtains on the right.",
+        "text": "A living room with beige walls, a white door on the left, a clock on the wall, a beige armchair in the center, a small table in front of the chair, and a window with light-colored curtains on the right."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_26.jpg",
+        "time_sec": 26.0,
+        "caption": "A living room with a beige armchair, a small table, a clock on the wall, and a window with curtains. The door is open to a hallway. The walls are painted white, and there's a light switch on the left wall.",
+        "text": "A living room with a beige armchair, a small table, a clock on the wall, and a window with curtains. The door is open to a hallway. The walls are painted white, and there's a light switch on the left wall."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_28.jpg",
+        "time_sec": 28.0,
+        "caption": "A living room with a beige armchair, a clock on the wall, a window with light-colored curtains, a small table, and a staircase leading to an upper level. The walls are painted in light colors, and there's a lamp on the left side of the image.",
+        "text": "A living room with a beige armchair, a clock on the wall, a window with light-colored curtains, a small table, and a staircase leading to an upper level. The walls are painted in light colors, and there's a lamp on the left side of the image."
+    },
+    {
+        "video_id": "v3_3",
+        "frame": "frame_29.jpg",
+        "time_sec": 29.0,
+        "caption": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a fireplace. The door is open to another room.",
+        "text": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a fireplace. The door is open to another room."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_0.jpg",
+        "time_sec": 0.0,
+        "caption": "A living room with beige walls, a white armchair, a small table, a clock on the wall, a window with light-colored curtains, and a staircase on the left side.",
+        "text": "A living room with beige walls, a white armchair, a small table, a clock on the wall, a window with light-colored curtains, and a staircase on the left side."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_2.jpg",
+        "time_sec": 2.0,
+        "caption": "A living room with beige walls, a white armchair, a clock on the wall, a window with light-colored curtains, a fireplace on the left, and a staircase leading to an upper level.",
+        "text": "A living room with beige walls, a white armchair, a clock on the wall, a window with light-colored curtains, a fireplace on the left, and a staircase leading to an upper level."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_4.jpg",
+        "time_sec": 4.0,
+        "caption": "A man in a green hoodie stands in a living room with a white armchair to his left, a clock on the wall behind him, and a window with curtains to his right. A dog sits on the floor near the armchair.",
+        "text": "A man in a green hoodie stands in a living room with a white armchair to his left, a clock on the wall behind him, and a window with curtains to his right. A dog sits on the floor near the armchair."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_6.jpg",
+        "time_sec": 6.0,
+        "caption": "A young person stands in a room, wearing a green hoodie and black pants. They hold a blue object in their right hand. The room has beige walls, a window with curtains on the right side, and a staircase on the left. There's a couch and a small table near the window.",
+        "text": "A young person stands in a room, wearing a green hoodie and black pants. They hold a blue object in their right hand. The room has beige walls, a window with curtains on the right side, and a staircase on the left. There's a couch and a small table near the window."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_8.jpg",
+        "time_sec": 8.0,
+        "caption": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen. The floor appears",
+        "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen. The floor appears"
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_10.jpg",
+        "time_sec": 10.0,
+        "caption": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen.",
+        "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_12.jpg",
+        "time_sec": 12.0,
+        "caption": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, a clock on the wall, and a window with light-colored curtains on the right.",
+        "text": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, a clock on the wall, and a window with light-colored curtains on the right."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_14.jpg",
+        "time_sec": 14.0,
+        "caption": "A living room with a beige armchair, a small table, a clock on the wall, and a window with light-colored curtains. The door is closed, and there's a staircase on the left side.",
+        "text": "A living room with a beige armchair, a small table, a clock on the wall, and a window with light-colored curtains. The door is closed, and there's a staircase on the left side."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_16.jpg",
+        "time_sec": 16.0,
+        "caption": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, and a window with light-colored curtains on the right. A clock hangs on the wall above the armchair.",
+        "text": "A living room with beige walls, a white door on the left, a beige armchair in the center, a small table next to it, and a window with light-colored curtains on the right. A clock hangs on the wall above the armchair."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_18.jpg",
+        "time_sec": 18.0,
+        "caption": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to an upper level.",
+        "text": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to an upper level."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_20.jpg",
+        "time_sec": 20.0,
+        "caption": "A room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to another room. The armchair is positioned in the center, the clock is near the ceiling, the window has light-colored curtains, the table is to the right of the armchair, and the staircase is on the",
+        "text": "A room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to another room. The armchair is positioned in the center, the clock is near the ceiling, the window has light-colored curtains, the table is to the right of the armchair, and the staircase is on the"
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_22.jpg",
+        "time_sec": 22.0,
+        "caption": "A room with a white wall clock hanging on the wall, a beige armchair in the center, a small table to the right of the armchair, a window with light-colored curtains on the right side, and a fireplace on the left side.",
+        "text": "A room with a white wall clock hanging on the wall, a beige armchair in the center, a small table to the right of the armchair, a window with light-colored curtains on the right side, and a fireplace on the left side."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_24.jpg",
+        "time_sec": 24.0,
+        "caption": "A living room with beige walls, a white door on the left, a clock on the wall, a beige armchair in the center, a small table in front of the chair, and a window with light-colored curtains on the right.",
+        "text": "A living room with beige walls, a white door on the left, a clock on the wall, a beige armchair in the center, a small table in front of the chair, and a window with light-colored curtains on the right."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_26.jpg",
+        "time_sec": 26.0,
+        "caption": "A living room with a beige armchair, a small table, a clock on the wall, and a window with curtains. The door is open to a hallway. The walls are painted white, and there's a light switch on the left wall.",
+        "text": "A living room with a beige armchair, a small table, a clock on the wall, and a window with curtains. The door is open to a hallway. The walls are painted white, and there's a light switch on the left wall."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_28.jpg",
+        "time_sec": 28.0,
+        "caption": "A living room with a beige armchair, a clock on the wall, a window with light-colored curtains, a small table, and a staircase leading to an upper level. The walls are painted in light colors, and there's a lamp on the left side of the image.",
+        "text": "A living room with a beige armchair, a clock on the wall, a window with light-colored curtains, a small table, and a staircase leading to an upper level. The walls are painted in light colors, and there's a lamp on the left side of the image."
+    },
+    {
+        "video_id": "v3_4",
+        "frame": "frame_29.jpg",
+        "time_sec": 29.0,
+        "caption": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a fireplace. The door is open to another room.",
+        "text": "A living room with a beige armchair, a clock on the wall, a window with curtains, a table, and a fireplace. The door is open to another room."
+    }
+]

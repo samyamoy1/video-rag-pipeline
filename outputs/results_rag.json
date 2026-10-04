@@ -1,0 +1,857 @@
+[
+    {
+        "video_id": "v1_0",
+        "split": "random_video_3d_what_move",
+        "question": "What is the object that is moving down in the video?",
+        "options": [
+            "trophy",
+            "sugary drink",
+            "router",
+            "footwear"
+        ],
+        "answer": "router",
+        "retrieved": [
+            {
+                "frame": "frame_0.jpg",
+                "time_sec": 0.0,
+                "score": 0.6691,
+                "text": "A golden trophy is on the left side at the top of the frame. A blue bottle is on the right side at the bottom of the frame. A black object with yellow text is in the center-left area at the bottom of the frame."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.6707,
+                "text": "A golden trophy is on the left side of the frame, slightly above the center. A blue bottle with a green cap is on the right side, near the bottom. A black object with a yellow arrow is at the bottom center of the frame. The background shows a light-colored floor with a dark object in the middle distance."
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 2.5,
+                "score": 0.7111,
+                "text": "A black laptop is on the left side of the frame. A golden trophy is on the left side, slightly above the laptop. A blue bottle is on the right side, near the bottom of the frame. A gray object resembling a shoe is on the right side, near the center of the frame."
+            },
+            {
+                "frame": "frame_11.jpg",
+                "time_sec": 2.75,
+                "score": 0.6687,
+                "text": "A golden trophy is on the left side at the top of the frame. A black object with a gold handle is in the center-bottom area. A blue bottle is on the right side at the bottom of the frame. A gray object is on the left side at the bottom of the frame."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.6697,
+                "text": "A golden trophy is on the left side at the top of the frame. A blue object is on the right side at the bottom of the frame. A black object is in the center at the bottom of the frame. A yellow object is on the left side at the bottom of the frame. A gray object is on the right side at the top of the frame."
+            }
+        ],
+        "option_scores": {
+            "trophy": 0.7195,
+            "sugary drink": 0.4844,
+            "router": 0.4677,
+            "footwear": 0.5751
+        },
+        "baseline_pred": "trophy",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "trophy",
+        "chosen_option": "trophy",
+        "correct": false
+    },
+    {
+        "video_id": "v1_1",
+        "split": "random_video_3d_what_move",
+        "question": "What is the object that is moving down in the video?",
+        "options": [
+            "sports jersey",
+            "rose",
+            "router",
+            "clothes"
+        ],
+        "answer": "router",
+        "retrieved": [
+            {
+                "frame": "frame_2.jpg",
+                "time_sec": 0.5,
+                "score": 0.6057,
+                "text": "Pink flower on the left side, bottom. Pink flower on the right side, bottom. Black object with red highlights on the left side, middle. Orange belt on the right side, top."
+            },
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 1.5,
+                "score": 0.6062,
+                "text": "Pink object on left side, top. Orange object on right side, top. Black object on left side, bottom. Pink flower on right side, bottom."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.6008,
+                "text": "Pink shoe on the left side, near the top. Pink belt on the right side, near the top. Black object with antennas on the left side, near the bottom. Small pink flower on the right side, near the bottom."
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 2.5,
+                "score": 0.5834,
+                "text": "Pink high-heeled shoe on the left side, near the top. Pink rose with green stem on the right side, near the bottom. Pink belt on the right side, near the top. Black object on the left side, near the bottom."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.6158,
+                "text": "Pink flower with green stem on the right side. Pink object resembling a shoe on the left side. Orange object resembling a belt on the right side. Black object resembling a phone on the left side."
+            }
+        ],
+        "option_scores": {
+            "sports jersey": 0.4861,
+            "rose": 0.5672,
+            "router": 0.4376,
+            "clothes": 0.5944
+        },
+        "baseline_pred": "clothes",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "router",
+        "chosen_option": "router",
+        "correct": true
+    },
+    {
+        "video_id": "v1_2",
+        "split": "random_video_3d_what_move",
+        "question": "What is the object that is moving down in the video?",
+        "options": [
+            "mat",
+            "router",
+            "butterfly",
+            "sporting equipment"
+        ],
+        "answer": "router",
+        "retrieved": [
+            {
+                "frame": "frame_0.jpg",
+                "time_sec": 0.0,
+                "score": 0.635,
+                "text": "Left: Yellow butterfly, top left. Right: Pink character, bottom right. Bottom left: Black device with yellow button, front left. Top right: Wooden structure, top right."
+            },
+            {
+                "frame": "frame_4.jpg",
+                "time_sec": 1.0,
+                "score": 0.6429,
+                "text": "Left: Yellow butterfly with black spots on a light brown surface. Right: A red object resembling a piece of candy or a small toy on a darker brown surface. Front: A black rectangular device with two antennas on a light brown surface. Top: The background is a light brown surface."
+            },
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 1.5,
+                "score": 0.6833,
+                "text": "Left: Black router with two antennas, front. Right: Wooden wall with a small hole, top. Top left: Yellow butterfly, left side. Bottom right: Pink object on the ground, right side."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.6896,
+                "text": "Left: Black device with two antennas, positioned at the bottom left. Right: Wooden structure with a small gap, positioned at the top right. Top: Yellow butterfly on the left side of the wooden structure. Bottom: Red object on the ground near the black device."
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 2.5,
+                "score": 0.6534,
+                "text": "Left: Black device with two antennas. Right: Wooden fence with a red ribbon tied to it. Top left: Yellow butterfly flying near the fence. Bottom center: Wooden table surface."
+            }
+        ],
+        "option_scores": {
+            "mat": 0.5133,
+            "router": 0.7096,
+            "butterfly": 0.7321,
+            "sporting equipment": 0.5198
+        },
+        "baseline_pred": "butterfly",
+        "baseline_correct": false,
+        "answer_in_top_k": true,
+        "answer_in_any_caption": true,
+        "model_output": "router",
+        "chosen_option": "router",
+        "correct": true
+    },
+    {
+        "video_id": "v1_3",
+        "split": "random_video_3d_what_move",
+        "question": "What is the moving object in the video?",
+        "options": [
+            "wagon",
+            "dagger",
+            "bone",
+            "butterfly"
+        ],
+        "answer": "dagger",
+        "retrieved": [
+            {
+                "frame": "frame_2.jpg",
+                "time_sec": 0.5,
+                "score": 0.6961,
+                "text": "Left: A red and yellow butterfly with a white outline. Right: A white truck with black wheels. Bottom: A bone-like object with a brown color. Top: A small stick-like object."
+            },
+            {
+                "frame": "frame_4.jpg",
+                "time_sec": 1.0,
+                "score": 0.6855,
+                "text": "Left: A butterfly with orange wings and a yellow body. Right: A bone-like object with a light brown color. Top: A small white truck with black wheels. Bottom: A stick with a black tip."
+            },
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 1.5,
+                "score": 0.6888,
+                "text": "Left: A knife with a black handle and blade. Right: A small white truck with a red flag on top. Front: A bone with a light brown color. Bottom: A butterfly with orange wings and a yellow body."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.6844,
+                "text": "Left: A red and yellow butterfly with a white outline. Right: A white truck with black wheels. Front: A bone-like object with a brown color. Top: A small object that appears to be a toothpick."
+            },
+            {
+                "frame": "frame_14.jpg",
+                "time_sec": 3.5,
+                "score": 0.6908,
+                "text": "Left: A red and yellow butterfly with a white outline. Right: A white truck with black wheels. Front: A bone-like object with a brown color. Top: A small stick-like object."
+            }
+        ],
+        "option_scores": {
+            "wagon": 0.599,
+            "dagger": 0.5404,
+            "bone": 0.4898,
+            "butterfly": 0.7207
+        },
+        "baseline_pred": "butterfly",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "bone",
+        "chosen_option": "bone",
+        "correct": false
+    },
+    {
+        "video_id": "v1_4",
+        "split": "random_video_3d_what_move",
+        "question": "What is the moving object in the video?",
+        "options": [
+            "appliance",
+            "clothes",
+            "dagger",
+            "optical system"
+        ],
+        "answer": "dagger",
+        "retrieved": [
+            {
+                "frame": "frame_0.jpg",
+                "time_sec": 0.0,
+                "score": 0.4881,
+                "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes a wooden surface with some items on it."
+            },
+            {
+                "frame": "frame_4.jpg",
+                "time_sec": 1.0,
+                "score": 0.4804,
+                "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.4804,
+                "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 2.5,
+                "score": 0.483,
+                "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes a wooden surface with some sticks and a piece of paper at the top edge."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.4804,
+                "text": "A small green frog with a yellow shirt is on the left side of the frame, facing right. A white bird with a black beak is on the right side of the frame, facing left. The background includes wooden sticks and a piece of paper at the top of the frame."
+            }
+        ],
+        "option_scores": {
+            "appliance": 0.4568,
+            "clothes": 0.5016,
+            "dagger": 0.3739,
+            "optical system": 0.4485
+        },
+        "baseline_pred": "clothes",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "white bird",
+        "chosen_option": "",
+        "correct": false
+    },
+    {
+        "video_id": "v2_0",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "back left",
+            "front left",
+            "front right",
+            "back right"
+        ],
+        "answer": "front right",
+        "retrieved": [
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.5382,
+                "text": "Left: Suitcase with pink apple on top. Right: White hat with red bow. Top: Green boot. Bottom: Ground surface."
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 2.5,
+                "score": 0.5628,
+                "text": "Left: Suitcase with pink sticker, light brown. Right: White helmet with red markings, positioned slightly behind the suitcase. Top: Green boot, standing upright on the ground. Bottom: Ground surface appears to be a textured, light gray material."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.6125,
+                "text": "A brown suitcase with a pink apple on it is on the left side of the frame. A white robot with red eyes is on the right side of the frame. The background shows a grassy area with a blue sign on the left and a gray pole on the right."
+            },
+            {
+                "frame": "frame_14.jpg",
+                "time_sec": 3.5,
+                "score": 0.5581,
+                "text": "Left: Brown suitcase with pink apple on top. Right: White robot with red eyes and mouth. Top: Blue flag. Bottom: Green pole."
+            },
+            {
+                "frame": "frame_15.jpg",
+                "time_sec": 3.75,
+                "score": 0.5654,
+                "text": "Brown suitcase on the left side, front. White robot on the right side, front. Blue flag on the left side, top. Green pole on the right side, top."
+            }
+        ],
+        "option_scores": {
+            "back left": 0.6388,
+            "front left": 0.6757,
+            "front right": 0.6474,
+            "back right": 0.5325
+        },
+        "baseline_pred": "front left",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "front left",
+        "chosen_option": "front left",
+        "correct": false
+    },
+    {
+        "video_id": "v2_1",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "back left",
+            "front left",
+            "front right",
+            "back right"
+        ],
+        "answer": "front right",
+        "retrieved": [
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 1.5,
+                "score": 0.5077,
+                "text": "Two people: one wearing a red sweater on the left, another wearing a gray sweater on the right. A small wooden table in front of the person in the red sweater. A red cone-shaped object on the right side of the frame."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.497,
+                "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden bench on left side of frame. Red object with fish design on right side of frame."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.4933,
+                "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden table in front of person on left. Red object on ground near person on right."
+            },
+            {
+                "frame": "frame_14.jpg",
+                "time_sec": 3.5,
+                "score": 0.5193,
+                "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden bench on left side of frame. Red object on ground near right person. Gray object on ground near right person."
+            },
+            {
+                "frame": "frame_15.jpg",
+                "time_sec": 3.75,
+                "score": 0.5122,
+                "text": "Two people standing on tiled floor. Person on left wearing red shirt, facing right. Person on right wearing gray shirt, facing left. Wooden bench on left side of frame. Red object on ground near right person's feet."
+            }
+        ],
+        "option_scores": {
+            "back left": 0.5383,
+            "front left": 0.5605,
+            "front right": 0.5389,
+            "back right": 0.4882
+        },
+        "baseline_pred": "front left",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "front right",
+        "chosen_option": "front right",
+        "correct": true
+    },
+    {
+        "video_id": "v2_2",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "front left",
+            "front right",
+            "back left",
+            "back right"
+        ],
+        "answer": "front right",
+        "retrieved": [
+            {
+                "frame": "frame_2.jpg",
+                "time_sec": 0.5,
+                "score": 0.5825,
+                "text": "Left: Basket, dark brown, top left. Right: Box, white, top right. Front: Bread, light brown, bottom left. Bottom right: Pink box with a lid, open."
+            },
+            {
+                "frame": "frame_4.jpg",
+                "time_sec": 1.0,
+                "score": 0.573,
+                "text": "Left: A brown woven basket with a white cloth inside. Right: A red plastic container with a lid. Front: A piece of bread on the left side. Top: Green grass."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.5939,
+                "text": "Left: Black basket with clothespins on top. Right: Red box with a lid open. Front: Bread on the left side. Top: Green grassy area. Bottom: Sand-like surface."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.557,
+                "text": "Left: Wicker basket, dark brown Right: Red tin with a white lid, front Bottom left: Bread, light brown Top center: White box, top Background: Green grass, top"
+            },
+            {
+                "frame": "frame_15.jpg",
+                "time_sec": 3.75,
+                "score": 0.6278,
+                "text": "Left: Black bag with clothespins on top. Right: Red box with a white object inside. Front: Bread on the left side. Top: Green grassy area."
+            }
+        ],
+        "option_scores": {
+            "front left": 0.6774,
+            "front right": 0.6469,
+            "back left": 0.6143,
+            "back right": 0.5427
+        },
+        "baseline_pred": "front left",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "front left",
+        "chosen_option": "front left",
+        "correct": false
+    },
+    {
+        "video_id": "v2_3",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "back right",
+            "back left",
+            "front right",
+            "front left"
+        ],
+        "answer": "back left",
+        "retrieved": [
+            {
+                "frame": "frame_0.jpg",
+                "time_sec": 0.0,
+                "score": 0.6617,
+                "text": "Yellow object on left side, front. Pink object on right side, front. Person in light blue jacket on right side, back. Green object on left side, back."
+            },
+            {
+                "frame": "frame_4.jpg",
+                "time_sec": 1.0,
+                "score": 0.6725,
+                "text": "Yellow object on left side, front. Pink object on right side, front. Person wearing light blue jacket, right side, back. Yellow object on left side, back. Person wearing white jacket, right side, back."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.6599,
+                "text": "Yellow object on left side, front. Pink object on right side, front. Person wearing light blue jacket, top right. Person wearing white jacket, top center. Yellow object on left side, back. Pink object on right side, back."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.6142,
+                "text": "Tennis ball: Yellow with pink strings, top left. Person: Wearing light blue jacket, standing on right side, upper body visible. Pink object: Appears to be a toy or prop, located at the bottom right."
+            },
+            {
+                "frame": "frame_15.jpg",
+                "time_sec": 3.75,
+                "score": 0.6324,
+                "text": "Yellow object with pink lines on the left side of the frame. Pink object on the right side of the frame. Person wearing light blue jacket in the background, right side of the frame."
+            }
+        ],
+        "option_scores": {
+            "back right": 0.5611,
+            "back left": 0.643,
+            "front right": 0.6671,
+            "front left": 0.6782
+        },
+        "baseline_pred": "front left",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "front right",
+        "chosen_option": "front right",
+        "correct": false
+    },
+    {
+        "video_id": "v2_4",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "front left",
+            "back right",
+            "back left",
+            "front right"
+        ],
+        "answer": "back left",
+        "retrieved": [
+            {
+                "frame": "frame_0.jpg",
+                "time_sec": 0.0,
+                "score": 0.5816,
+                "text": "A yellow hard hat is on the left side at the top of the frame. A red book is on the left side at the bottom. A knife is on the right side at the bottom."
+            },
+            {
+                "frame": "frame_2.jpg",
+                "time_sec": 0.5,
+                "score": 0.5816,
+                "text": "A yellow hard hat is on the left side at the top of the frame. A red book is on the left side at the bottom. A knife is on the right side at the bottom."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 2.0,
+                "score": 0.5958,
+                "text": "A yellow hard hat with a red ribbon is on the left side of the frame, near the top. A knife with a black handle lies on the right side, closer to the bottom. There is a wooden plank with a red object on it, positioned at the bottom center of the frame."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 3.0,
+                "score": 0.5779,
+                "text": "A yellow hard hat is on the left side, slightly above the center. A knife is on the right side, near the bottom. There is a wooden plank with a red mark on the left side, slightly above the center. The background shows a textured surface with some greenery at the top right corner."
+            },
+            {
+                "frame": "frame_14.jpg",
+                "time_sec": 3.5,
+                "score": 0.6121,
+                "text": "A yellow hard hat is on the left side, near the top edge. A knife with a black handle is on the right side, near the bottom edge. There is a red object on the left side, near the center. The background shows a wooden surface with a pattern."
+            }
+        ],
+        "option_scores": {
+            "front left": 0.5909,
+            "back right": 0.5044,
+            "back left": 0.5689,
+            "front right": 0.5602
+        },
+        "baseline_pred": "front left",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "front right",
+        "chosen_option": "front right",
+        "correct": false
+    },
+    {
+        "video_id": "v3_0",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is in while the person smiling at something?",
+        "options": [
+            "vacuum",
+            "chair",
+            "blanket",
+            "phone"
+        ],
+        "answer": "blanket",
+        "retrieved": [
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 6.0,
+                "score": 0.5338,
+                "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 12.0,
+                "score": 0.5324,
+                "text": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window"
+            },
+            {
+                "frame": "frame_22.jpg",
+                "time_sec": 22.0,
+                "score": 0.5427,
+                "text": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench."
+            },
+            {
+                "frame": "frame_26.jpg",
+                "time_sec": 26.0,
+                "score": 0.545,
+                "text": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design."
+            },
+            {
+                "frame": "frame_28.jpg",
+                "time_sec": 28.0,
+                "score": 0.5671,
+                "text": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design."
+            }
+        ],
+        "option_scores": {
+            "vacuum": 0.413,
+            "chair": 0.5528,
+            "blanket": 0.6273,
+            "phone": 0.5347
+        },
+        "baseline_pred": "blanket",
+        "baseline_correct": true,
+        "answer_in_top_k": true,
+        "answer_in_any_caption": true,
+        "model_output": "phone",
+        "chosen_option": "phone",
+        "correct": false
+    },
+    {
+        "video_id": "v3_1",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is in while the person smiling at something?",
+        "options": [
+            "phone",
+            "closet",
+            "blanket",
+            "box"
+        ],
+        "answer": "blanket",
+        "retrieved": [
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 6.0,
+                "score": 0.536,
+                "text": "A man sits on a bench with his legs crossed, wearing a maroon shirt, beige pants, and sandals. He holds a phone in his hands. Another man stands behind him, holding a red blanket over his shoulders. The background features a wall with a stone pattern and a wooden chair."
+            },
+            {
+                "frame": "frame_12.jpg",
+                "time_sec": 12.0,
+                "score": 0.5282,
+                "text": "Two people are sitting on a bench. The person on the left is wearing a red hoodie and beige pants, while the person on the right is wearing a maroon hoodie and beige pants. They are both barefoot. There is a piece of paper on the left side of the bench. The background features a wall with a stone pattern and a window"
+            },
+            {
+                "frame": "frame_22.jpg",
+                "time_sec": 22.0,
+                "score": 0.5394,
+                "text": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench."
+            },
+            {
+                "frame": "frame_26.jpg",
+                "time_sec": 26.0,
+                "score": 0.5579,
+                "text": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design."
+            },
+            {
+                "frame": "frame_28.jpg",
+                "time_sec": 28.0,
+                "score": 0.5876,
+                "text": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design."
+            }
+        ],
+        "option_scores": {
+            "phone": 0.5347,
+            "closet": 0.5447,
+            "blanket": 0.6273,
+            "box": 0.4356
+        },
+        "baseline_pred": "blanket",
+        "baseline_correct": true,
+        "answer_in_top_k": true,
+        "answer_in_any_caption": true,
+        "model_output": "phone",
+        "chosen_option": "phone",
+        "correct": false
+    },
+    {
+        "video_id": "v3_2",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is in while the person smiling at something?",
+        "options": [
+            "chair",
+            "blanket",
+            "mirror",
+            "laptop"
+        ],
+        "answer": "blanket",
+        "retrieved": [
+            {
+                "frame": "frame_18.jpg",
+                "time_sec": 18.0,
+                "score": 0.546,
+                "text": "A person wearing a red shawl sits on a wooden bench with their legs crossed. Another person, wearing a white shirt and dark pants, stands behind them, holding a piece of paper. The setting appears to be indoors, with a patterned wall in the background."
+            },
+            {
+                "frame": "frame_22.jpg",
+                "time_sec": 22.0,
+                "score": 0.5803,
+                "text": "A person sits on a bench with legs crossed, wearing a red shawl over their shoulders. Another person sits behind them, holding a purple pillow. The bench is against a wall with a patterned design. The floor is tiled, and there's a piece of paper on the bench."
+            },
+            {
+                "frame": "frame_26.jpg",
+                "time_sec": 26.0,
+                "score": 0.5667,
+                "text": "Two people sitting on a bench with a blanket draped over them. The person on the left has a piece of paper in front of them, while the person on the right is wearing yellow pants. The background features a wall with a patterned design."
+            },
+            {
+                "frame": "frame_28.jpg",
+                "time_sec": 28.0,
+                "score": 0.596,
+                "text": "A person sits on a bench with a red blanket draped over them. They wear a maroon shirt, gray pants, and sandals. A piece of paper lies on the bench in front of them. The background features a wall with a patterned design."
+            },
+            {
+                "frame": "frame_30.jpg",
+                "time_sec": 30.0,
+                "score": 0.5458,
+                "text": "Two people sitting on a bench with a blanket draped over them. The person on the left is wearing a purple shirt and gray pants, while the person on the right is wearing a red shirt and yellow pants. There is a piece of paper on the left person's lap."
+            }
+        ],
+        "option_scores": {
+            "chair": 0.5528,
+            "blanket": 0.6273,
+            "mirror": 0.4531,
+            "laptop": 0.4385
+        },
+        "baseline_pred": "blanket",
+        "baseline_correct": true,
+        "answer_in_top_k": true,
+        "answer_in_any_caption": true,
+        "model_output": "blanket",
+        "chosen_option": "blanket",
+        "correct": true
+    },
+    {
+        "video_id": "v3_3",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is drinking from before the person putting some food somewhere?",
+        "options": [
+            "bed",
+            "dish",
+            "picture",
+            "paper"
+        ],
+        "answer": "dish",
+        "retrieved": [
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 6.0,
+                "score": 0.5735,
+                "text": "A young person stands in a room, wearing a green hoodie and black pants. They hold a blue object in their right hand. The room has beige walls, a window with curtains on the right side, and a staircase on the left. There's a couch and a small table near the window."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 8.0,
+                "score": 0.5755,
+                "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen. The floor appears"
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 10.0,
+                "score": 0.569,
+                "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen."
+            },
+            {
+                "frame": "frame_20.jpg",
+                "time_sec": 20.0,
+                "score": 0.5975,
+                "text": "A room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to another room. The armchair is positioned in the center, the clock is near the ceiling, the window has light-colored curtains, the table is to the right of the armchair, and the staircase is on the"
+            },
+            {
+                "frame": "frame_28.jpg",
+                "time_sec": 28.0,
+                "score": 0.5548,
+                "text": "A living room with a beige armchair, a clock on the wall, a window with light-colored curtains, a small table, and a staircase leading to an upper level. The walls are painted in light colors, and there's a lamp on the left side of the image."
+            }
+        ],
+        "option_scores": {
+            "bed": 0.6444,
+            "dish": 0.4918,
+            "picture": 0.5507,
+            "paper": 0.5279
+        },
+        "baseline_pred": "bed",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "dish",
+        "chosen_option": "dish",
+        "correct": true
+    },
+    {
+        "video_id": "v3_4",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is drinking from before the person putting some food somewhere?",
+        "options": [
+            "shoe",
+            "bed",
+            "dish",
+            "light"
+        ],
+        "answer": "dish",
+        "retrieved": [
+            {
+                "frame": "frame_6.jpg",
+                "time_sec": 6.0,
+                "score": 0.5659,
+                "text": "A young person stands in a room, wearing a green hoodie and black pants. They hold a blue object in their right hand. The room has beige walls, a window with curtains on the right side, and a staircase on the left. There's a couch and a small table near the window."
+            },
+            {
+                "frame": "frame_8.jpg",
+                "time_sec": 8.0,
+                "score": 0.5894,
+                "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen. The floor appears"
+            },
+            {
+                "frame": "frame_10.jpg",
+                "time_sec": 10.0,
+                "score": 0.5769,
+                "text": "A beige armchair sits in the center of a room with a white wall behind it. To the left, there's a staircase leading upwards. A clock hangs on the wall near the ceiling. On the right side, a window with light-colored curtains allows natural light to enter. Below the window, a small table can be seen."
+            },
+            {
+                "frame": "frame_20.jpg",
+                "time_sec": 20.0,
+                "score": 0.6054,
+                "text": "A room with a beige armchair, a clock on the wall, a window with curtains, a table, and a staircase leading to another room. The armchair is positioned in the center, the clock is near the ceiling, the window has light-colored curtains, the table is to the right of the armchair, and the staircase is on the"
+            },
+            {
+                "frame": "frame_28.jpg",
+                "time_sec": 28.0,
+                "score": 0.5399,
+                "text": "A living room with a beige armchair, a clock on the wall, a window with light-colored curtains, a small table, and a staircase leading to an upper level. The walls are painted in light colors, and there's a lamp on the left side of the image."
+            }
+        ],
+        "option_scores": {
+            "shoe": 0.4834,
+            "bed": 0.6444,
+            "dish": 0.4918,
+            "light": 0.5603
+        },
+        "baseline_pred": "bed",
+        "baseline_correct": false,
+        "answer_in_top_k": false,
+        "answer_in_any_caption": false,
+        "model_output": "dish",
+        "chosen_option": "dish",
+        "correct": true
+    }
+]

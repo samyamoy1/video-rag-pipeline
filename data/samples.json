@@ -1,0 +1,197 @@
+[
+    {
+        "video_id": "v1_0",
+        "video_path": "data/videos/v1_0.mp4",
+        "split": "random_video_3d_what_move",
+        "question": "What is the object that is moving down in the video?",
+        "options": [
+            "trophy",
+            "sugary drink",
+            "router",
+            "footwear"
+        ],
+        "answer": "router"
+    },
+    {
+        "video_id": "v1_1",
+        "video_path": "data/videos/v1_1.mp4",
+        "split": "random_video_3d_what_move",
+        "question": "What is the object that is moving down in the video?",
+        "options": [
+            "sports jersey",
+            "rose",
+            "router",
+            "clothes"
+        ],
+        "answer": "router"
+    },
+    {
+        "video_id": "v1_2",
+        "video_path": "data/videos/v1_2.mp4",
+        "split": "random_video_3d_what_move",
+        "question": "What is the object that is moving down in the video?",
+        "options": [
+            "mat",
+            "router",
+            "butterfly",
+            "sporting equipment"
+        ],
+        "answer": "router"
+    },
+    {
+        "video_id": "v1_3",
+        "video_path": "data/videos/v1_3.mp4",
+        "split": "random_video_3d_what_move",
+        "question": "What is the moving object in the video?",
+        "options": [
+            "wagon",
+            "dagger",
+            "bone",
+            "butterfly"
+        ],
+        "answer": "dagger"
+    },
+    {
+        "video_id": "v1_4",
+        "video_path": "data/videos/v1_4.mp4",
+        "split": "random_video_3d_what_move",
+        "question": "What is the moving object in the video?",
+        "options": [
+            "appliance",
+            "clothes",
+            "dagger",
+            "optical system"
+        ],
+        "answer": "dagger"
+    },
+    {
+        "video_id": "v2_0",
+        "video_path": "data/videos/v2_0.mp4",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "back left",
+            "front left",
+            "front right",
+            "back right"
+        ],
+        "answer": "front right"
+    },
+    {
+        "video_id": "v2_1",
+        "video_path": "data/videos/v2_1.mp4",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "back left",
+            "front left",
+            "front right",
+            "back right"
+        ],
+        "answer": "front right"
+    },
+    {
+        "video_id": "v2_2",
+        "video_path": "data/videos/v2_2.mp4",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "front left",
+            "front right",
+            "back left",
+            "back right"
+        ],
+        "answer": "front right"
+    },
+    {
+        "video_id": "v2_3",
+        "video_path": "data/videos/v2_3.mp4",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "back right",
+            "back left",
+            "front right",
+            "front left"
+        ],
+        "answer": "back left"
+    },
+    {
+        "video_id": "v2_4",
+        "video_path": "data/videos/v2_4.mp4",
+        "split": "random_video_3d_where_move",
+        "question": "Where is the moving object located in the video?",
+        "options": [
+            "front left",
+            "back right",
+            "back left",
+            "front right"
+        ],
+        "answer": "back left"
+    },
+    {
+        "video_id": "v3_0",
+        "video_path": "data/videos/v3_0.mp4",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is in while the person smiling at something?",
+        "options": [
+            "vacuum",
+            "chair",
+            "blanket",
+            "phone"
+        ],
+        "answer": "blanket"
+    },
+    {
+        "video_id": "v3_1",
+        "video_path": "data/videos/v3_1.mp4",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is in while the person smiling at something?",
+        "options": [
+            "phone",
+            "closet",
+            "blanket",
+            "box"
+        ],
+        "answer": "blanket"
+    },
+    {
+        "video_id": "v3_2",
+        "video_path": "data/videos/v3_2.mp4",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is in while the person smiling at something?",
+        "options": [
+            "chair",
+            "blanket",
+            "mirror",
+            "laptop"
+        ],
+        "answer": "blanket"
+    },
+    {
+        "video_id": "v3_3",
+        "video_path": "data/videos/v3_3.mp4",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is drinking from before the person putting some food somewhere?",
+        "options": [
+            "bed",
+            "dish",
+            "picture",
+            "paper"
+        ],
+        "answer": "dish"
+    },
+    {
+        "video_id": "v3_4",
+        "video_path": "data/videos/v3_4.mp4",
+        "split": "random_video_sg_what_object",
+        "question": "What is the object that the person is drinking from before the person putting some food somewhere?",
+        "options": [
+            "shoe",
+            "bed",
+            "dish",
+            "light"
+        ],
+        "answer": "dish"
+    }
+]

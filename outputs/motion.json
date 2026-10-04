@@ -1,0 +1,114 @@
+{
+    "v1_0": {
+        "result": {
+            "points": 15,
+            "dx_px": -21.0,
+            "dy_px": 71.0,
+            "direction": "down",
+            "mean_x": 0.433,
+            "mean_y": 0.612,
+            "position": "front left"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly down. It is located in the front left part of the frame."
+    },
+    "v1_1": {
+        "result": {
+            "points": 15,
+            "dx_px": 5.2,
+            "dy_px": 16.0,
+            "direction": "down",
+            "mean_x": 0.379,
+            "mean_y": 0.691,
+            "position": "front left"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly down. It is located in the front left part of the frame."
+    },
+    "v1_2": {
+        "result": {
+            "points": 14,
+            "dx_px": -25.6,
+            "dy_px": 8.7,
+            "direction": "left",
+            "mean_x": 0.45,
+            "mean_y": 0.69,
+            "position": "front left"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly left. It is located in the front left part of the frame."
+    },
+    "v1_3": {
+        "result": {
+            "points": 13,
+            "dx_px": -38.5,
+            "dy_px": 5.7,
+            "direction": "left",
+            "mean_x": 0.225,
+            "mean_y": 0.152,
+            "position": "back left"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly left. It is located in the back left part of the frame."
+    },
+    "v1_4": {
+        "result": null,
+        "hint": "No reliable movement was measured."
+    },
+    "v2_0": {
+        "result": {
+            "points": 12,
+            "dx_px": -22.1,
+            "dy_px": -63.2,
+            "direction": "up",
+            "mean_x": 0.763,
+            "mean_y": 0.514,
+            "position": "front right"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly up. It is located in the front right part of the frame."
+    },
+    "v2_1": {
+        "result": {
+            "points": 12,
+            "dx_px": -12.4,
+            "dy_px": -55.6,
+            "direction": "up",
+            "mean_x": 0.726,
+            "mean_y": 0.672,
+            "position": "front right"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly up. It is located in the front right part of the frame."
+    },
+    "v2_2": {
+        "result": {
+            "points": 13,
+            "dx_px": -11.8,
+            "dy_px": -68.4,
+            "direction": "up",
+            "mean_x": 0.772,
+            "mean_y": 0.578,
+            "position": "front right"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly up. It is located in the front right part of the frame."
+    },
+    "v2_3": {
+        "result": {
+            "points": 11,
+            "dx_px": -7.7,
+            "dy_px": 35.0,
+            "direction": "down",
+            "mean_x": 0.313,
+            "mean_y": 0.441,
+            "position": "back left"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly down. It is located in the back left part of the frame."
+    },
+    "v2_4": {
+        "result": {
+            "points": 13,
+            "dx_px": -6.3,
+            "dy_px": 34.1,
+            "direction": "down",
+            "mean_x": 0.304,
+            "mean_y": 0.411,
+            "position": "back left"
+        },
+        "hint": "Measured by motion tracking: the moving object travels mainly down. It is located in the back left part of the frame."
+    }
+}

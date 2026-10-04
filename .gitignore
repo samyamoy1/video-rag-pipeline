@@ -1,0 +1,15 @@
+# Python environment (huge, anyone can recreate it)
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data that scripts re-create
+data/videos/
+frames/
+
+# Secrets and editor files
+.env
+.vscode/
+.DS_Store
+Thumbs.db
